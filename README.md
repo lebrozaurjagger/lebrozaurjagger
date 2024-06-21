@@ -1,16 +1,20 @@
-## Hi there 👋
+## hi there
 
-<!--
-**lebrozaurjagger/lebrozaurjagger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+about me: I'm mainly focus on iOS / macOS development, I'm also interested in AI / blockchain!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  My currently used platforms:
+- macOS 14
+- iOS 17
+- Windows 11
+
+  Programming Languages:
+- Swift
+- Rust
+- JS
+
+
+bilingual: English, Russian
+I’m currently learning French and Spanish
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lebrozaurjagger&theme=radical&border_radius=10)](https://git.io/streak-stats)
