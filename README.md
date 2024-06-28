@@ -1,8 +1,5 @@
 ## hi there
 
-about me: I'm mainly focus on iOS / macOS development, I'm also interested in AI / blockchain!
-
-
 ### My currently used platforms:
 - macOS 14
 - iOS 17
